@@ -1,8 +1,6 @@
 package practice08;
 
 
-import java.util.Objects;
-
 public class Student extends Person{
 
     protected Klass klass;
