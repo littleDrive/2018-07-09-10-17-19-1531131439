@@ -30,7 +30,7 @@ introduce方法返回一个字符串形如：
 
 >My name is Tom. I am 21 years old. I am a Teacher. I teach Class 2.
 
-如果Klass为空，就会返回：
+如空，就会返回：果Klass为
 
 >My name is Tom. I am 21 years old. I am a Teacher. I teach No Class.
 

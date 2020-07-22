@@ -39,7 +39,7 @@ public class Klass {
         if (list.contains(student)) {
             this.leader = student;
         } else {
-            System.out.println();
+            System.out.print("It is not one of us.\n");
         }
 
     }
